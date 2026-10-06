@@ -10,7 +10,7 @@ O script resolve o endereço IP do alvo e percorre uma lista de portas TCP comun
 
 ## Como Usar
 
-1. Certifica-te de ter o Python instalado no teu sistema.
+1. Ter o Python instalado no teu sistema.
 2. Guarda o script como `scanner.py`.
 3. Abre o terminal na pasta do projeto e executa:
    ```bash
